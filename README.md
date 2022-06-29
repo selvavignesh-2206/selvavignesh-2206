@@ -21,3 +21,7 @@ GitHub Stats
 Language Stats
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=selvavignesh-2206&layout=compact"/>
+
+Connect with me
+
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/selvavignesh-balasubramanian-911a93176/)
