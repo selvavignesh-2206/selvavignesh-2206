@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 
 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=selvavignesh-2206&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=selvavignesh-2206&show_icons=true&theme=dark"/>
 
 Language Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=selvavignesh-2206&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=selvavignesh-2206&layout=compact&theme=dark"/>
 
 Connect with me
 
