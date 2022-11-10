@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working at GovTech Singapore as Associate Robotics Engineer under TAP
+- 🔭 I’m currently working at GovTech Singapore as Robotics Engineer under TAP
 - ⚡ I graduated from National University of Singapore with a B.E. in Mechanical Engineering (Robotics) and 
       minor in Computer Science
 - 🌱 I’m currently learning AWS and front end web development
