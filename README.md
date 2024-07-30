@@ -7,10 +7,9 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working at GovTech Singapore as Robotics Engineer under TAP
+- 🔭 I’m currently working at Volvo Cars Singapore as Robotics Engineer 
 - ⚡ I graduated from National University of Singapore with a B.E. in Mechanical Engineering (Robotics) and 
-      minor in Computer Science
-- 🌱 I’m currently learning AWS and front end web development
+      minor in Computer Science and I am currently doing MSc Robotics in NUS
 - 👯 I’m looking to collaborate on robotics projects
 - 📫 You can reach me via Linkedin 
 
