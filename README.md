@@ -7,19 +7,11 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working at Volvo Cars Singapore as Robotics Engineer 
+- 🔭 I’m currently working at Volvo Cars Singapore 
 - ⚡ I graduated from National University of Singapore with a B.E. in Mechanical Engineering (Robotics) and 
       minor in Computer Science and I am currently doing MSc Robotics in NUS
-- 👯 I’m looking to collaborate on robotics projects
+- 👯 I’m looking to collaborate on software engineering & robotics projects
 - 📫 You can reach me via Linkedin 
-
-GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=selvavignesh-2206&show_icons=true&theme=dark)"/>
-
-Language Stats
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=selvavignesh-2206&layout=compact&theme=dark"/>
 
 Connect with me
 
