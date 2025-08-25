@@ -7,9 +7,9 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working at Volvo Cars Singapore 
+- 🔭 I’m currently working at IDEMIA PUBLIC SECURITY 
 - ⚡ I graduated from National University of Singapore with a B.E. in Mechanical Engineering (Robotics) and 
-      minor in Computer Science and I am currently doing MSc Robotics in NUS
+      minor in Computer Science and I am currently doing MSc AI & Robotics in NUS
 - 👯 I’m looking to collaborate on software engineering & robotics projects
 - 📫 You can reach me via Linkedin 
 
